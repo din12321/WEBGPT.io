@@ -7,7 +7,7 @@ function addBotTypingMessage() {
   return botTypingMessage;
 }
 
-const apiKey = "YOUR_API_KEY";
+const apiKey = "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";
 const modelId = "gpt-3.5-turbo";
 
 const messagesContainer = document.getElementById("chat-messages");
